@@ -1,2 +1,2 @@
 # vsigns
-wordpress based site for mobile health data visualization 
+Mobile Health Data visualization webapp. a wordpress based site. 
